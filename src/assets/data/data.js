@@ -43,7 +43,7 @@ export const data = {
       },
     },
     address:
-      "Dk. Gendongan RT. 04/01, Desa Kedumulyo, Kec. Sukolilo, Kab. Pati, Jawa Tengah",
+      "Dk. Gendongan RT. 04 RW. 01, Desa Kedumulyo, Kec. Sukolilo, Kab. Pati, Jawa Tengah",
   },
 
   link: {
@@ -71,6 +71,26 @@ export const data = {
     {
       id: 5,
       image: "./src/assets/images/5.png",
+    },
+    {
+      id: 6,
+      image: "./src/assets/images/6.png",
+    },
+    {
+      id: 7,
+      image: "./src/assets/images/7.png",
+    },
+    {
+      id: 8,
+      image: "./src/assets/images/8.png",
+    },
+    {
+      id: 9,
+      image: "./src/assets/images/9.png",
+    },
+    {
+      id: 10,
+      image: "./src/assets/images/10.png",
     },
   ],
 
